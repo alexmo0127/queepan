@@ -1,0 +1,473 @@
+[
+  {
+    "id": 1,
+    "nombre": "TN PAN CROISSANT PREMIUM 20 g",
+    "imagen": "img/tn_pan_croissant_premium_20_g.png",
+    "categoria": "Croissant",
+    "formatos": {
+      "vertical": {
+        "porcion": "2 1/2 unidades (50 g)",
+        "porciones_envase": "Aproximadamente 1",
+        "valores": {
+          "Grasa total": [
+            "3.5 g",
+            "1.7 g"
+          ],
+          "Grasa Sat.": [
+            "1.5 g",
+            "0.7 g"
+          ],
+          "Grasa Trans": [
+            "22",
+            "11"
+          ],
+          "Carbohidratos Totales": [
+            "53",
+            "27"
+          ],
+          "Fibra dietaria": [
+            "1.6 g",
+            "0.8 g"
+          ],
+          "Azúcares totales": [
+            "9.6 g",
+            "4.8 g"
+          ],
+          "Azúcares Añadidos": [
+            "9.4 g",
+            "4.7 g"
+          ],
+          "Proteína": [
+            "7.8 g",
+            "3.9 g"
+          ],
+          "Sodio": [
+            "502",
+            "251"
+          ],
+          "Vitamina A": [
+            "3.7 µg ER",
+            "1.9 µg ER"
+          ],
+          "Vitamina D": [
+            "0.02 µg ER",
+            "0.01 µg"
+          ],
+          "Hierro": [
+            "2.8 mg",
+            "1.4 mg"
+          ],
+          "Calcio": [
+            "30",
+            "15"
+          ],
+          "Zinc": [
+            "1.1 mg",
+            "0.57 mg"
+          ]
+        }
+      },
+      "tabular": {
+        "porcion": "2 1/2 unidades (50 g)",
+        "porciones_envase": "Aproximadamente 1",
+        "calorias": {
+          "100g": "",
+          "porcion": ""
+        },
+        "valores": [
+          {
+            "nombre": "Grasa total",
+            "100g": "3.5 g",
+            "porcion": "1.7 g"
+          },
+          {
+            "nombre": "Grasa Sat.",
+            "100g": "1.5 g",
+            "porcion": "0.7 g",
+            "negrita": true
+          },
+          {
+            "nombre": "Grasa Trans",
+            "100g": "22",
+            "porcion": "11"
+          },
+          {
+            "nombre": "Carbohidratos Totales",
+            "100g": "53",
+            "porcion": "27"
+          },
+          {
+            "nombre": "Fibra dietaria",
+            "100g": "1.6 g",
+            "porcion": "0.8 g"
+          },
+          {
+            "nombre": "Azúcares totales",
+            "100g": "9.6 g",
+            "porcion": "4.8 g"
+          },
+          {
+            "nombre": "Azúcares Añadidos",
+            "100g": "9.4 g",
+            "porcion": "4.7 g",
+            "negrita": true
+          },
+          {
+            "nombre": "Proteína",
+            "100g": "7.8 g",
+            "porcion": "3.9 g"
+          },
+          {
+            "nombre": "Sodio",
+            "100g": "502",
+            "porcion": "251",
+            "negrita": true
+          },
+          {
+            "nombre": "Vitamina A",
+            "100g": "3.7 µg ER",
+            "porcion": "1.9 µg ER"
+          },
+          {
+            "nombre": "Vitamina D",
+            "100g": "0.02 µg ER",
+            "porcion": "0.01 µg"
+          },
+          {
+            "nombre": "Hierro",
+            "100g": "2.8 mg",
+            "porcion": "1.4 mg"
+          },
+          {
+            "nombre": "Calcio",
+            "100g": "30",
+            "porcion": "15"
+          },
+          {
+            "nombre": "Zinc",
+            "100g": "1.1 mg",
+            "porcion": "0.57 mg"
+          }
+        ]
+      },
+      "lineal": {
+        "100g": "Calorías , Grasa total 3.5 g, Grasa Sat. 1.5 g, Grasa Trans 22, Carbohidratos Totales 53, Fibra dietaria 1.6 g, Azúcares totales 9.6 g, Azúcares Añadidos 9.4 g, Proteína 7.8 g, Sodio 502, Vitamina A 3.7 µg ER, Vitamina D 0.02 µg ER, Hierro 2.8 mg, Calcio 30, Zinc 1.1 mg.",
+        "porcion": "Tamaño por porción: 2 1/2 unidades (50 g). Número de porciones por envase: Aproximadamente 1. Calorías , Grasa total 1.7 g, Grasa Sat. 0.7 g, Grasa Trans 11, Carbohidratos Totales 27, Fibra dietaria 0.8 g, Azúcares totales 4.8 g, Azúcares Añadidos 4.7 g, Proteína 3.9 g, Sodio 251, Vitamina A 1.9 µg ER, Vitamina D 0.01 µg, Hierro 1.4 mg, Calcio 15, Zinc 0.57 mg."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "TN PAN DE QUESO PREMIUM 20 g",
+    "imagen": "img/tn_pan_de_queso_premium_20_g.png",
+    "categoria": "Queso",
+    "formatos": {
+      "vertical": {
+        "porcion": "2 1/2 unidades (50 g)",
+        "porciones_envase": "Aproximadamente 1",
+        "valores": {
+          "Grasa total": [
+            "2.4 g",
+            "1.2 g"
+          ],
+          "Grasa Sat.": [
+            "0.8 g",
+            "0.4 g"
+          ],
+          "Grasa Trans": [
+            "32",
+            "16"
+          ],
+          "Carbohidratos Totales": [
+            "59",
+            "29"
+          ],
+          "Fibra dietaria": [
+            "1.5 g",
+            "0.7 g"
+          ],
+          "Azúcares totales": [
+            "18",
+            "8.9 g"
+          ],
+          "Azúcares Añadidos": [
+            "18",
+            "8.8 g"
+          ],
+          "Proteína": [
+            "7.5 g",
+            "3.8 g"
+          ],
+          "Sodio": [
+            "266",
+            "133"
+          ],
+          "Vitamina A": [
+            "7.0 µg ER",
+            "3.5 µg ER"
+          ],
+          "Vitamina D": [
+            "0.03 µg",
+            "0.02 µg"
+          ],
+          "Hierro": [
+            "2.6 mg",
+            "1.3 mg"
+          ],
+          "Calcio": [
+            "43",
+            "22"
+          ],
+          "Zinc": [
+            "1.1 mg",
+            "0.56 mg"
+          ]
+        }
+      },
+      "tabular": {
+        "porcion": "2 1/2 unidades (50 g)",
+        "porciones_envase": "Aproximadamente 1",
+        "calorias": {
+          "100g": "",
+          "porcion": ""
+        },
+        "valores": [
+          {
+            "nombre": "Grasa total",
+            "100g": "2.4 g",
+            "porcion": "1.2 g"
+          },
+          {
+            "nombre": "Grasa Sat.",
+            "100g": "0.8 g",
+            "porcion": "0.4 g",
+            "negrita": true
+          },
+          {
+            "nombre": "Grasa Trans",
+            "100g": "32",
+            "porcion": "16"
+          },
+          {
+            "nombre": "Carbohidratos Totales",
+            "100g": "59",
+            "porcion": "29"
+          },
+          {
+            "nombre": "Fibra dietaria",
+            "100g": "1.5 g",
+            "porcion": "0.7 g"
+          },
+          {
+            "nombre": "Azúcares totales",
+            "100g": "18",
+            "porcion": "8.9 g"
+          },
+          {
+            "nombre": "Azúcares Añadidos",
+            "100g": "18",
+            "porcion": "8.8 g",
+            "negrita": true
+          },
+          {
+            "nombre": "Proteína",
+            "100g": "7.5 g",
+            "porcion": "3.8 g"
+          },
+          {
+            "nombre": "Sodio",
+            "100g": "266",
+            "porcion": "133",
+            "negrita": true
+          },
+          {
+            "nombre": "Vitamina A",
+            "100g": "7.0 µg ER",
+            "porcion": "3.5 µg ER"
+          },
+          {
+            "nombre": "Vitamina D",
+            "100g": "0.03 µg",
+            "porcion": "0.02 µg"
+          },
+          {
+            "nombre": "Hierro",
+            "100g": "2.6 mg",
+            "porcion": "1.3 mg"
+          },
+          {
+            "nombre": "Calcio",
+            "100g": "43",
+            "porcion": "22"
+          },
+          {
+            "nombre": "Zinc",
+            "100g": "1.1 mg",
+            "porcion": "0.56 mg"
+          }
+        ]
+      },
+      "lineal": {
+        "100g": "Calorías , Grasa total 2.4 g, Grasa Sat. 0.8 g, Grasa Trans 32, Carbohidratos Totales 59, Fibra dietaria 1.5 g, Azúcares totales 18, Azúcares Añadidos 18, Proteína 7.5 g, Sodio 266, Vitamina A 7.0 µg ER, Vitamina D 0.03 µg, Hierro 2.6 mg, Calcio 43, Zinc 1.1 mg.",
+        "porcion": "Tamaño por porción: 2 1/2 unidades (50 g). Número de porciones por envase: Aproximadamente 1. Calorías , Grasa total 1.2 g, Grasa Sat. 0.4 g, Grasa Trans 16, Carbohidratos Totales 29, Fibra dietaria 0.7 g, Azúcares totales 8.9 g, Azúcares Añadidos 8.8 g, Proteína 3.8 g, Sodio 133, Vitamina A 3.5 µg ER, Vitamina D 0.02 µg, Hierro 1.3 mg, Calcio 22, Zinc 0.56 mg."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "TN PAN TAJADO PREMIUM 450 g",
+    "imagen": "img/tn_pan_tajado_premium_450_g.png",
+    "categoria": "Tajado",
+    "formatos": {
+      "vertical": {
+        "porcion": "2 1/2 unidades (50 g)",
+        "porciones_envase": "Aproximadamente 1",
+        "valores": {
+          "Grasa total": [
+            "2.6 g",
+            "0.5 g"
+          ],
+          "Grasa Sat.": [
+            "0.9 g",
+            "0.2 g"
+          ],
+          "Grasa Trans": [
+            "0",
+            "0"
+          ],
+          "Carbohidratos Totales": [
+            "54",
+            "10"
+          ],
+          "Fibra dietaria": [
+            "1.6 g",
+            "0.3 g"
+          ],
+          "Azúcares totales": [
+            "8.8 g",
+            "1.6 g"
+          ],
+          "Azúcares Añadidos": [
+            "8.6 g",
+            "1.6 g"
+          ],
+          "Proteína": [
+            "7.9 g",
+            "1.4 g"
+          ],
+          "Sodio": [
+            "503",
+            "91"
+          ],
+          "Vitamina A": [
+            "0",
+            "0"
+          ],
+          "Vitamina D": [
+            "0",
+            "0"
+          ],
+          "Hierro": [
+            "2.9 mg",
+            "0.53 mg"
+          ],
+          "Calcio": [
+            "15",
+            "2.7 mg"
+          ],
+          "Zinc": [
+            "1.1 mg",
+            "0.20 mg"
+          ]
+        }
+      },
+      "tabular": {
+        "porcion": "2 1/2 unidades (50 g)",
+        "porciones_envase": "Aproximadamente 1",
+        "calorias": {
+          "100g": "",
+          "porcion": ""
+        },
+        "valores": [
+          {
+            "nombre": "Grasa total",
+            "100g": "2.6 g",
+            "porcion": "0.5 g"
+          },
+          {
+            "nombre": "Grasa Sat.",
+            "100g": "0.9 g",
+            "porcion": "0.2 g",
+            "negrita": true
+          },
+          {
+            "nombre": "Grasa Trans",
+            "100g": "0",
+            "porcion": "0"
+          },
+          {
+            "nombre": "Carbohidratos Totales",
+            "100g": "54",
+            "porcion": "10"
+          },
+          {
+            "nombre": "Fibra dietaria",
+            "100g": "1.6 g",
+            "porcion": "0.3 g"
+          },
+          {
+            "nombre": "Azúcares totales",
+            "100g": "8.8 g",
+            "porcion": "1.6 g"
+          },
+          {
+            "nombre": "Azúcares Añadidos",
+            "100g": "8.6 g",
+            "porcion": "1.6 g",
+            "negrita": true
+          },
+          {
+            "nombre": "Proteína",
+            "100g": "7.9 g",
+            "porcion": "1.4 g"
+          },
+          {
+            "nombre": "Sodio",
+            "100g": "503",
+            "porcion": "91",
+            "negrita": true
+          },
+          {
+            "nombre": "Vitamina A",
+            "100g": "0",
+            "porcion": "0"
+          },
+          {
+            "nombre": "Vitamina D",
+            "100g": "0",
+            "porcion": "0"
+          },
+          {
+            "nombre": "Hierro",
+            "100g": "2.9 mg",
+            "porcion": "0.53 mg"
+          },
+          {
+            "nombre": "Calcio",
+            "100g": "15",
+            "porcion": "2.7 mg"
+          },
+          {
+            "nombre": "Zinc",
+            "100g": "1.1 mg",
+            "porcion": "0.20 mg"
+          }
+        ]
+      },
+      "lineal": {
+        "100g": "Calorías , Grasa total 2.6 g, Grasa Sat. 0.9 g, Grasa Trans 0, Carbohidratos Totales 54, Fibra dietaria 1.6 g, Azúcares totales 8.8 g, Azúcares Añadidos 8.6 g, Proteína 7.9 g, Sodio 503, Vitamina A 0, Vitamina D 0, Hierro 2.9 mg, Calcio 15, Zinc 1.1 mg.",
+        "porcion": "Tamaño por porción: 2 1/2 unidades (50 g). Número de porciones por envase: Aproximadamente 1. Calorías , Grasa total 0.5 g, Grasa Sat. 0.2 g, Grasa Trans 0, Carbohidratos Totales 10, Fibra dietaria 0.3 g, Azúcares totales 1.6 g, Azúcares Añadidos 1.6 g, Proteína 1.4 g, Sodio 91, Vitamina A 0, Vitamina D 0, Hierro 0.53 mg, Calcio 2.7 mg, Zinc 0.20 mg."
+      }
+    }
+  }
+]
